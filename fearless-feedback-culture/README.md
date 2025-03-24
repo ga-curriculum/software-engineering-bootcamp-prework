@@ -1,11 +1,11 @@
 <h1>
-  <span class="headline">Information Technology Bootcamp Pre-Work</span>
+  <span class="headline">Software Engineering Bootcamp Pre-Work</span>
   <span class="subhead">Fearless Feedback Culture</span>
 </h1>
 
-At General Assembly, we believe timely *constructive feedback* delivered with empathy, respect, and clarity is essential to growth and learning. Constructive feedback should be given without fear of retribution and received with an open mind and a growth mindset.
+At General Assembly, we believe timely _constructive feedback_ delivered with empathy, respect, and clarity is essential to growth and learning. Constructive feedback should be given without fear of retribution and received with an open mind and a growth mindset.
 
-> 📚 *Constructive feedback* is feedback that is fact-based, specific, and actionable. It should help the recipient improve rather than criticize or tear them down. It is focused purely on behaviors, actions, or work rather than personal aspects and provides clear guidance for growth.
+> 📚 _Constructive feedback_ is feedback that is fact-based, specific, and actionable. It should help the recipient improve rather than criticize or tear them down. It is focused purely on behaviors, actions, or work rather than personal aspects and provides clear guidance for growth.
 
 ## The value of fearless feedback
 
@@ -15,7 +15,7 @@ A culture of fearless feedback promotes continuous improvement, fosters collabor
 
 Promote a feedback culture by seeking feedback from your peers and instructors when appropriate. Be open to receiving feedback, and use it to reflect on your work and improve.
 
-> 🧠 Feedback should be positive too. When someone is doing great work, tell them! Simply recognizing of the value of another's work can make them feel appreciated and valued.
+> 🧠 Feedback should be positive too. When someone is doing great work, tell them! Simply recognizing the value of another's work can make them feel appreciated and valued.
 
 ## Receiving feedback
 
@@ -37,7 +37,7 @@ Beyond the above, consider these tips when giving feedback:
 
 - Use simple, direct, and brief language when giving feedback.
 - Ask the recipient if they're open to receiving feedback before giving it.
-- Ask the recipient how they would like to receive feedback - some people prefer written feedback, while others prefer verbal feedback.
+- Ask the recipient how they would like to receive feedback — some people prefer written feedback, while others prefer verbal feedback.
 - There is a time and place for feedback. You should give feedback privately and not in front of others.
 - Feedback should be timely. Avoid waiting more than a few days to give feedback if it's tied to a specific event.
 
@@ -45,6 +45,4 @@ Beyond the above, consider these tips when giving feedback:
 
 ### Glows and grows
 
-A common method for giving feedback is to provide both *glows* and *grows*. *Glows* are positive aspects of the work, while *grows* are areas that could be improved. This helps balance the feedback and ensures the recipient receives positive reinforcement and constructive criticism. This will help the recipient understand what they're doing well and what they can improve upon.
-
-It also helps to ensure that the recipient doesn't feel overwhelmed by overly negative feedback. By providing positive feedback, you can help build the recipient's confidence and encourage them to continue to grow and improve.
+A common method for giving feedback is to provide both _glows_ and _grows_. _Glows_ are positive aspects of the work, while _grows_ are areas that could be improved. This helps balance the feedback and ensures the recipient receives positive reinforcement and constructive criticism. This will help the recipient understand what they're doing well and what they

@@ -5,13 +5,17 @@
 
 ## About
 
-This is the official prework of the Software Engineering Bootcamp Program.
+Welcome to the official prework for the Software Engineering Bootcamp Program!  
 
-This prework serves as the foundation for the Software Engineering Bootcamp Program. It introduces essential tools, languages, and concepts required to succeed in the program. The modules are designed to provide a hands-on, step-by-step introduction to web development fundamentals, ensuring students have a strong grasp of core skills before advancing to more complex topics.
+This prework is your starting point for an exciting and challenging journey into software engineering. Each module has been carefully designed to help you build confidence with essential tools, programming languages, and core concepts before day one of class.  
+
+Rather than jumping in unprepared, this prework allows you to ease into the learning process with hands-on, step-by-step lessons. You'll learn by doing — writing real code, solving problems, and practicing the skills that professional software engineers use every day.  
+
+By the end of this prework, you won’t just have knowledge — you’ll have a solid foundation that sets you up for success as you take on more complex projects in the bootcamp and beyond. Whether you’re new to coding or brushing up on fundamentals, this is your chance to start strong, build momentum, and enter the classroom with confidence.
 
 ## Welcome to General Assembly
 
-| Lesson                                                                  | Est. Delivery Time | Skills                                                                              |
+| Lesson                                                                  | Est. Delivery Time | About                                                                              |
 | ----------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------- |
 | [Welcome to General Assembly!](./welcome-to-general-assembly/README.md) |       10 min       | Discover General Assembly and the Software Engineering Bootcamp.                    |
 | [Set for Success](./set-for-success/README.md)                          |       10 min       | Learn what you can do now and throughout the course to set yourself up for success. |
@@ -19,7 +23,7 @@ This prework serves as the foundation for the Software Engineering Bootcamp Prog
 | [Fearless Feedback Culture](./fearless-feedback-culture/README.md)      |       10 min       | Understand the culture of feedback at General Assembly.                             |
 | **Total content**                                                       |      ~ 40 min      |                                                                                     |
 
-## Content
+## Pre-Work Content
 
 | Module Repo                                                                                                                                                  | Student-facing link                                                                                                                      | Est. Delivery Time      | About                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------- |

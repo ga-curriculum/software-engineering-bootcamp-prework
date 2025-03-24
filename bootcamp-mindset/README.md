@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Information Technology Bootcamp Pre-Work</span>
+  <span class="headline">Software Engineering Bootcamp Pre-Work</span>
   <span class="subhead">Bootcamp Mindset</span>
 </h1>
 
@@ -7,11 +7,11 @@
 
 You just read about what you can do to succeed in this course. You may have noticed that we didn't give you a list of technical skills you need to know or a set of tools you need to master before the course starts. That's because right now, the most important thing you can do to succeed in this course is to have the right mindset.
 
-Most of the time, the biggest obstacle to success is not a lack of technical knowledge but a lack of confidence in your ability to learn and grow. This is especially true in a field like information technology, where the pace of change is rapid, and the amount of information you need to know can feel overwhelming. To combat this, you need to develop a growth mindset.
+Most of the time, the biggest obstacle to success is not a lack of technical knowledge but a lack of confidence in your ability to learn and grow. This is especially true in a field like software engineering, where the pace of change is rapid, and the amount of information you need to know can feel overwhelming. To combat this, you need to develop a growth mindset.
 
 ## From fixed to growth mindset
 
-People with a *fixed mindset* believe that their abilities are fixed traits that they were born with and can't change. They believe that:
+People with a _fixed mindset_ believe that their abilities are fixed traits that they were born with and can't change. They believe that:
 
 - They are either good at something or not, and no amount of effort can change that.
 - It's better to give up when things get hard to protect their ego or self-image.
@@ -21,7 +21,7 @@ People with a *fixed mindset* believe that their abilities are fixed traits that
 
 Eventually, people with a fixed mindset stop showing up.
 
-On the other hand, people with a *growth mindset* believe that effort leads to learning and growth and that they can develop their abilities through hard work, good strategies, and help from others. They believe that:
+On the other hand, people with a _growth mindset_ believe that effort leads to learning and growth and that they can develop their abilities through hard work, good strategies, and help from others. They believe that:
 
 - They should seek out feedback because failure is an opportunity to grow.
 - They should compare themselves to who they were yesterday.
@@ -50,7 +50,7 @@ Working in a team also promotes a sense of accountability. When you're working w
 
 These mindsets are skills that show you're adaptable, resilient, and able to overcome obstacles.
 
-Developing these skills won't just help you succeed in this course - they also help you succeed in life. The ability to learn and grow, work on a team, and approach challenges with a positive attitude are skills that will serve you well in your career, personal relationships, health, and more.
+Developing these skills won't just help you succeed in this course — they also help you succeed in life. The ability to learn and grow, work on a team, and approach challenges with a positive attitude are skills that will serve you well in your career, personal relationships, health, and more.
 
 <div class="activity solo-exercise">
   <h2 class="title">Reflect on your past</h2>
@@ -59,4 +59,4 @@ Developing these skills won't just help you succeed in this course - they also h
 
 This is another exercise that may be a little uncomfortable, but remember, you don't have to share your thoughts with anyone else. This is just for you.
 
-Reflect on a time in your past when you faced a challenge you approached with a fixed mindset that resulted in you giving up. What caused you to have that mindset? Did you recognize it at the time? What would it have taken for you to approach that challenge with a growth mindset instead?
+Reflect on a time in your past when you faced a challenge you approached with a fixed mindset that resulted in you giving up. What caused you to have that mindset? Did you recognize it at
