@@ -9,6 +9,16 @@ This is the official prework of the Software Engineering Bootcamp Program.
 
 This prework serves as the foundation for the Software Engineering Bootcamp Program. It introduces essential tools, languages, and concepts required to succeed in the program. The modules are designed to provide a hands-on, step-by-step introduction to web development fundamentals, ensuring students have a strong grasp of core skills before advancing to more complex topics.
 
+## Welcome to General Assembly
+
+| Lesson                                                                  | Est. Delivery Time | Skills                                                                              |
+| ----------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------- |
+| [Welcome to General Assembly!](./welcome-to-general-assembly/README.md) |       10 min       | Discover General Assembly and the Software Engineering Bootcamp.                    |
+| [Set for Success](./set-for-success/README.md)                          |       10 min       | Learn what you can do now and throughout the course to set yourself up for success. |
+| [Bootcamp Mindset](./bootcamp-mindset/README.md)                        |       10 min       | Get into the right mental framework to tackle the challenges of the course.         |
+| [Fearless Feedback Culture](./fearless-feedback-culture/README.md)      |       10 min       | Understand the culture of feedback at General Assembly.                             |
+| **Total content**                                                       |      ~ 40 min      |                                                                                     |
+
 ## Content
 
 | Module Repo                                                                                                                                                  | Student-facing link                                                                                                                      | Est. Delivery Time      | About                                                                                                             |
