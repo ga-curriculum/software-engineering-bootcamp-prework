@@ -49,7 +49,7 @@ It can be hard to get back on track if you start to put things off.
 
 ### Check the hardware requirements
 
-Ensure your computer meets the [technical requirements](https://docs.google.com/document/d/1dcmz023ZTQsuz9FCky_e2LGPgrCKpsooVCr1Xlrbpxg/edit?tab=t.0#heading=h.1dzat4n5dyq5) for the course. Update your operating system if it's out of date.
+Ensure your computer meets the [technical requirements](https://docs.google.com/document/d/1vRv_Yjul_Gtn_O07dIwIMqlUtBJVJktIJ0Mex8-4--Q/edit?usp=sharing) for the course. Update your operating system if it's out of date.
 
 <div class="activity solo-exercise">
   <h2 class="title">Think about how you'll stay organized</h2>

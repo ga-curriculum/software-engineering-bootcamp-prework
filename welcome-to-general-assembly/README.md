@@ -29,8 +29,6 @@ You'll work and learn alongside a diverse blend of people from various disciplin
 
 ## What can I expect in SEB?
 
-![GA Software Engineering Bootcamp](./assets/ga-software-engineering-bootcamp.png)
-
 We've primarily designed SEB for individuals with minimal experience in coding who want the skills, experience, and confidence to start a successful career as a software engineer.
 
 The course prepares you with strong foundations in web development, programming, and professional skills that will help you thrive in software engineering roles. You’ll gain experience with tools such as the command line, Git, VS Code, and programming languages like Python and JavaScript. You'll also learn how to work in a professional environment by honing skills to communicate effectively, work on a team, and manage your time.
